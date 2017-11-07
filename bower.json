@@ -1,0 +1,18 @@
+{
+  "name": "angular-phonecat",
+  "homepage": "https://github.com/angular/angular-phonecat",
+  "authors": [
+    "muhdzakirahmat <muhdzakirahmat@gmail.com>"
+  ],
+  "description": "A starter project for AngularJS",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
